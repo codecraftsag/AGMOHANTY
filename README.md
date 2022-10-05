@@ -1,4 +1,4 @@
-
+![logo](https://github.com/AGMOHANTY/AGMOHANTY/blob/main/A.G.%20Github%201.jpeg)
 <h1 align="center">Hi 👋, I'm A.G MOHANTY</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
