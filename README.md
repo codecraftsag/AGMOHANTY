@@ -8,7 +8,7 @@
 
 - 🌱 I love coding and solving problems 💻 **Strong knowledge of Data Structures and Algorithms and System Design**
 
-- 📫 How to reach me **agmohanty.kunu@gmail.com**
+- 📫 How to reach me https://linktr.ee/agmohanty
 
 - ⚡ Fun fact **I am a team leader**
 
