@@ -1,16 +1,16 @@
 ![logo](https://github.com/AGMOHANTY/AGMOHANTY/blob/main/A.G.%20Github%201.jpeg)
 <h1 align="center">Hi 👋, I'm A.G MOHANTY</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=82a1493bhj2moyuizqqsraezyhoz6eclqomjbpmlbb4w56ar&rid=200w.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agmohanty&label=Profile%20views&color=0e75b6&style=flat" alt="agmohanty" /> </p>
 
-- 🌱 I’m currently learning **C, C++, PYTHON**
+- 🌱 I love coding and solving problems 💻 **Strong knowledge of Data Structures and Algorithms and System Design**
 
 - 📫 How to reach me **agmohanty.kunu@gmail.com**
 
-- ⚡ Fun fact **I am Funny😊😊**
+- ⚡ Fun fact **I am a team leader**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
