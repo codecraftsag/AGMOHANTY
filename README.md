@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agmohanty&label=Profile%20views&color=0e75b6&style=flat" alt="agmohanty" /> </p>
 
-- 🌱 I love coding and solving problems 💻 **Strong knowledge of Data Structures and Algorithms and System Design**
+- 🌱 I love coding and solving problems 💻 **Strong knowledge of Solving Problems and Data Structures and Algorithms**
 
 - 📫 How to reach me https://linktr.ee/agmohanty
 
-- ⚡ Fun fact **I am a team leader**
+- ⚡ Project Team **I am a team leader**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
