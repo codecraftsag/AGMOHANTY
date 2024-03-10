@@ -1,5 +1,5 @@
-![logo](https://github.com/AGMOHANTY/AGMOHANTY/blob/main/A.G.%20Github%201.jpeg)
-<h1 align="center">Hi 👋, I'm A.G MOHANTY</h1>
+![logo](https://github.com/AGMOHANTY/AGMOHANTY/blob/main/A.G.%20Github%201.jpeg) 
+<h1 align="center">Hi There 👋, I'm A.G MOHANTY</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=82a1493bhj2moyuizqqsraezyhoz6eclqomjbpmlbb4w56ar&rid=200w.gif&ct=g">
