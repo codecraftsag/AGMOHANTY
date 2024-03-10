@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agmohanty&label=Profile%20views&color=0e75b6&style=flat" alt="agmohanty" /> </p>
 
-- 🌱 💻I am a competitive programmer, skilled in problem-solving, algorithms and data structures. I have a strong passion and interest in Software Development and Strong understanding of software development principles, including object-oriented design, design patterns, and clean coding practices. I have spent most of time in the past one year doing competitive programming. I also have some work experience in frontend web development. I have also strong communication and teamwork skills.
+- 🌱 💻I am a Competitive Programmer, Skilled in Problem-Solving, Algorithms and Data Structures. I Have a Strong Passion and Interest in Software Development and Strong Understanding of Software Development Principles, Including Object-Oriented Design, Design Patterns, and Clean Coding Practices. I Have Spent Most of Time in the Past One Year Doing Competitive Programming. I also Have Some Work Experience in Frontend Web Development. I Have also Strong Communication and Teamwork Skills.
 
 - 📫 How to reach me https://agmohanty.netlify.app/
 
 - ⚡ Project Team **I am a Team Leader**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me:</h3>
 <p align="left">
 <a href="https://twitter.com/agmohanty5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agmohanty5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/a-g-mohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-g-mohanty" height="30" width="40" /></a>
