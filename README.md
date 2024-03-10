@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agmohanty&label=Profile%20views&color=0e75b6&style=flat" alt="agmohanty" /> </p>
 
-- 🌱 I love coding and solving problems 💻 **Strong knowledge of Solving Problems and Data Structures and Algorithms**
+- 🌱 💻I am a competitive programmer, skilled in problem-solving, algorithms and data structures. I have a strong passion and interest in Software Development and Strong understanding of software development principles, including object-oriented design, design patterns, and clean coding practices. I have spent most of time in the past one year doing competitive programming. I also have some work experience in frontend web development. I have also strong communication and teamwork skills.
 
 - 📫 How to reach me https://agmohanty.netlify.app/
 
-- ⚡ Project Team **I am a team leader**
+- ⚡ Project Team **I am a Team Leader**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
