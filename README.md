@@ -8,7 +8,7 @@
 
 - 🌱 I love coding and solving problems 💻 **Strong knowledge of Solving Problems and Data Structures and Algorithms**
 
-- 📫 How to reach me https://linktr.ee/agmohanty
+- 📫 How to reach me https://agmohanty.netlify.app/
 
 - ⚡ Project Team **I am a team leader**
 
